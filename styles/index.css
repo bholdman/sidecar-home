@@ -166,7 +166,7 @@ header {
 header p {
   position: absolute;
   position: absolute;
-  top: 320px;
+  top: 380px;
   width: 320px;
   letter-spacing: 3px;
   line-height: 35px;
@@ -238,7 +238,7 @@ h2,h3,h4 {
 
 #logo {
   position: absolute;
-  top: 100px;
+  top: 140px;
 }
 
 #logo img {
