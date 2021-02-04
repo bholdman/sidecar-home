@@ -191,6 +191,9 @@ h2,h3,h4 {
   font-style: normal;
 }
 
+button {
+  cursor: pointer;
+}
 
 /* COLORS */
 
@@ -344,6 +347,10 @@ h2,h3,h4 {
   margin-right: 25px;
 }
 
+.alternating-boxes {
+  margin-top: 50px;
+}
+
 .left-box {
   background-image:  url("../img/right-curve.png"), url("../img/placeholder.png");
   background-repeat: no-repeat, no-repeat;
@@ -357,6 +364,7 @@ h2,h3,h4 {
   background-color: #0c233c !important;
   height: 100%;
   margin-left: 53%;
+  padding: 15px;
 }
 
 .right-box {
@@ -372,6 +380,7 @@ h2,h3,h4 {
   background-color: #0c233c !important;
   height: 100%;
   margin-right: 53%;
+  padding: 15px;
 }
 
 
