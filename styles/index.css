@@ -347,6 +347,7 @@ button {
 
 .alternating-boxes {
   margin-top: 50px;
+  overflow: hidden;
 }
 
 .left-box {
