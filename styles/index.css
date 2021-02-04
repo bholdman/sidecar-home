@@ -387,7 +387,7 @@ button {
 @media (max-width: 1060px) {
   .left-box {
     background-image:  url("../img/placeholder.png");
-    background-repeat: no-repeat
+    background-repeat: no-repeat;
     background-position:  right center;
     background-size: cover;
     height: 400px;
