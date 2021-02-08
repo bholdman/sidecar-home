@@ -34,14 +34,14 @@ body h1 > span {
 }
 
 #menu-circle {
-  border-color: #e85d0d !important;
+  border-color: #f4af43;
   position: fixed;
   z-index: 100;
-  top: 15px;
-  left: 19px;
-  border-width: 5px;
-  height: 75px;
-  width: 75px;
+  top: 22px;
+  left: 25px;
+  border-width: 4px;
+  height: 55px;
+  width: 55px;
 }
 
 body input + label {
@@ -54,14 +54,14 @@ body input + label {
 }
 body input + label span {
   width: 0%;
-  height: 8px;
+  height: 5px;
   top: 50px;
   margin-top: -1px;
   left: 50px;
   display: block;
-  background: #e85d0d;
+  background: #f4af43;
   transition: 0.5s;
-  width: 45px;
+  width: 35px;
   margin-bottom: 8px;
 }
 body input + label span:first-child {
@@ -176,6 +176,8 @@ footer {
   padding-top: 50px;
 } 
 
+
+
 h1 {
   font-family: acumin-pro-extra-condensed, sans-serif;
   font-weight: 400;
@@ -242,7 +244,7 @@ button {
   top: 140px;
 }
 
-#logo img {
+#logo svg {
   width: 425px;
 }
 
@@ -380,6 +382,10 @@ button {
   height: 100%;
   margin-right: 53%;
   padding: 15px;
+}
+
+#footer-logo svg {
+  width: 350px;
 }
 
 
